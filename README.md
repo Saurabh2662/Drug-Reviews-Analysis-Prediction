@@ -1,4 +1,4 @@
-# -Drug-Reviews-Analysis-Prediction📌 Drug Reviews Analysis & Prediction
+#📌 Drug Reviews Analysis & Prediction
 📖 Project Overview
 This project aims to analyze and predict drug reviews using machine learning models. The dataset includes user ratings, effectiveness, and side effects of various drugs. The models implemented include:
 
