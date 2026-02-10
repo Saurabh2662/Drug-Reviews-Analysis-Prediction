@@ -51,8 +51,8 @@ python main.py
 
 ## 💡 Contributors
 👤 **Your Name**  
-📧 Email: kannugarg100@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/sashank-garg23  
+📧 Email:   
+🔗 LinkedIn: https://www.linkedin.com/in/saurabh1826/  
 
 ## ⚖️ License
 This project is open-source and free to use under the MIT License. 🎉
