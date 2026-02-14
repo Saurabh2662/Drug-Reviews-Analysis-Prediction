@@ -50,9 +50,9 @@ python main.py
 🔹 Implementing Deep Learning models  
 
 ## 💡 Contributors
-👤 **Your Name**  
-📧 Email: sauravsingh6462@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/saurabh1826/  
+👤 **Your Name - Saurabh**  
+📧 **Email: sauravsingh6462@gmail.com**
+🔗 **LinkedIn: https://www.linkedin.com/in/saurabh1826/** 
 
 ## ⚖️ License
 This project is open-source and free to use under the MIT License. 🎉
