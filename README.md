@@ -50,7 +50,7 @@ python main.py
 🔹 Implementing Deep Learning models  
 
 ## 💡 Contributors
-👤 **Your Name - Saurabh**  
+👤 **Your Name:- Saurabh**  
 📧 **Email: sauravsingh6462@gmail.com**   
 🔗 **LinkedIn: https://www.linkedin.com/in/saurabh1826/** 
 
