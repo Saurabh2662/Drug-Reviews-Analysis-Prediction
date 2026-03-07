@@ -51,7 +51,7 @@ python main.py
 
 ## 💡 Contributors
 👤 **Your Name: Saurabh**  
-📧 **Email:- sauravsingh6462@gmail.com**   
+📧 **Email: sauravsingh6462@gmail.com**   
 🔗 **LinkedIn:- https://www.linkedin.com/in/saurabh1826/** 
 
 ## ⚖️ License
