@@ -52,7 +52,7 @@ python main.py
 ## 💡 Contributors
 👤 **Your Name: Saurabh**  
 📧 **Email: sauravsingh6462@gmail.com**   
-🔗 **LinkedIn:- https://www.linkedin.com/in/saurabh1826/** 
+🔗 **LinkedIn: https://www.linkedin.com/in/saurabh1826/** 
 
 ## ⚖️ License
 This project is open-source and free to use under the MIT License. 🎉
